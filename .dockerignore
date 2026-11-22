@@ -1,0 +1,14 @@
+# Upload only what the Docker build needs (allowlist). Episode scripts, eval
+# outputs, labels and docs stay on this machine.
+*
+!Dockerfile
+!requirements.txt
+!app.py
+!serve.py
+!name_checker.py
+!llm_judge.py
+!.streamlit/
+!.streamlit/config.toml
+!samples/
+!samples/demo_show/
+!samples/demo_show/*.txt

@@ -1,0 +1,15 @@
+# Production defaults; the CLI/dev run reads these too.
+[server]
+headless = true
+maxUploadSize = 5            # MB per file; app.py also caps file count and total size
+enableXsrfProtection = true
+enableCORS = true
+fileWatcherType = "none"
+enableAgentApi = false       # explicit: no non-browser driving of the app
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = "none"    # never show tracebacks to visitors; they go to the server log
+toolbarMode = "viewer"       # hide the developer menu / Deploy button

@@ -1,0 +1,3 @@
+# Direct dependency; requirements.txt is generated with hashes:
+#   uv pip compile requirements.in --universal --python-version 3.12 --generate-hashes -o requirements.txt
+streamlit==1.67.0

@@ -1,0 +1,24 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: At the reading of the will, Maya exposes Victor in front of the whole town.
+CONTINUITY NOTES: Picks up from Episode 2's plan.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. TOWN HALL – DAY
+Scene start: 00:00.00
+Scene end: 00:30.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Wide shot of the crowded town hall, Victor standing at the front.
+
+**VICTOR HALE (Confident):**
+Start: (00:03.00) | End: (00:06.00)
+"The estate is mine by law."
+
+**MAYA THORNE (Steely):**
+Start: (00:06.50) | End: (00:10.00)
+"Then explain why the deed is dated after my father died, Mr Hale."

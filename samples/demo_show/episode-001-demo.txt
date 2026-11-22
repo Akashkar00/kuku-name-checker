@@ -1,0 +1,32 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Maya Thorne returns to Ravenscroft Hall for her father's funeral and finds Victor Hale already sitting in his chair.
+CONTINUITY NOTES: First episode. Maya's younger sister Mara lives at the Hall.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. RAVENSCROFT HALL – NIGHT
+Scene start: 00:00.00
+Scene end: 00:40.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Slow push in on the doors of Ravenscroft Hall as Maya steps out of the rain.
+
+**MAYA THORNE (Cold):**
+Start: (00:04.00) | End: (00:06.00)
+"Who let you into my father's house, Victor?"
+
+**VICTOR HALE (Smug):**
+Start: (00:06.50) | End: (00:09.00)
+"Your father did. He signed Ravenscroft over to me last week."
+
+**ACTION:**
+Start: (00:09.00) | End: (00:12.00)
+Mara appears at the top of the stairs, clutching a folded letter.
+
+**MARA (Frightened):**
+Start: (00:12.00) | End: (00:14.00)
+"Maya, don't believe him."

@@ -1,0 +1,28 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Maya reads the letter and learns Victor forged the deed to Ravenscraft Hall.
+CONTINUITY NOTES: Picks up from Episode 1 as Mara hands Maya the letter.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. LIBRARY – NIGHT
+Scene start: 00:00.00
+Scene end: 00:30.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Close-up on the letter in Maya's trembling hands.
+
+**MAYA (Whispering):**
+Start: (00:03.00) | End: (00:06.00)
+"He never signed it. Victor Hail forged every page."
+
+**MARA (Urgent):**
+Start: (00:06.50) | End: (00:09.00)
+"Then we take it to the magistrate tonight."
+
+**MAYA (Resolute):**
+Start: (00:09.00) | End: (00:12.00)
+"No. We let him think he has won Ravenscraft first."

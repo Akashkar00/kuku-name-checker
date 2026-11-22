@@ -1,0 +1,19 @@
+# Kuku input pack and anything quoting it (confidential: shared only via the submission zip)
+*Episode [0-9]*.txt
+SOLUTION_DOC.md
+plan.md
+outputs/
+raw_outputs/*
+!raw_outputs/demo_show_gemini-3.8-flash/
+!raw_outputs/demo_show_run_log.txt
+gold_labels.json
+submission/
+__pycache__/
+.env
+.DS_Store
+
+# Submission bundle: the PDF and raw outputs quote the confidential pack (shared via Drive)
+Solution-3/
+make_solution_pdf.py
+# Walkthrough video goes to Drive or YouTube, not git
+*.mp4

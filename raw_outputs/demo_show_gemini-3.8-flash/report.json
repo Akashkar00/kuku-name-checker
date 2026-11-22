@@ -1,0 +1,162 @@
+{
+  "episodes": 3,
+  "lines": 47,
+  "proper_nouns": 16,
+  "clusters": [
+    {
+      "canonical": "Ravenscroft",
+      "canonical_count": 3,
+      "canonical_example": "Maya Thorne returns to Ravenscroft Hall for her father's funeral and finds Victor Hale already sitting in his chair.",
+      "severity": "HIGH",
+      "variants": [
+        {
+          "spelling": "Ravenscraft",
+          "count": 2,
+          "severity": "HIGH",
+          "occurrences": [
+            {
+              "episode": 2,
+              "line": 2,
+              "kind": "notes",
+              "time": "",
+              "text": "Maya reads the letter and learns Victor forged the deed to Ravenscraft Hall.",
+              "speaker": "",
+              "context": ""
+            },
+            {
+              "episode": 2,
+              "line": 28,
+              "kind": "dialogue",
+              "time": "00:09.00",
+              "text": "\"No. We let him think he has won Ravenscraft first.\"",
+              "speaker": "MAYA",
+              "context": "Close-up on the letter in Maya's trembling hands."
+            }
+          ],
+          "llm_verdict": {
+            "same_entity": true,
+            "reason": "Both spellings refer to the same estate (Ravenscroft/Ravenscraft Hall) contested by Maya and Victor Hale.",
+            "model": "google/gemini-3.8-flash"
+          }
+        }
+      ],
+      "llm_kept": true
+    },
+    {
+      "canonical": "Hale",
+      "canonical_count": 4,
+      "canonical_example": "Maya Thorne returns to Ravenscroft Hall for her father's funeral and finds Victor Hale already sitting in his chair.",
+      "severity": "HIGH",
+      "variants": [
+        {
+          "spelling": "Hail",
+          "count": 1,
+          "severity": "HIGH",
+          "occurrences": [
+            {
+              "episode": 2,
+              "line": 20,
+              "kind": "dialogue",
+              "time": "00:03.00",
+              "text": "\"He never signed it. Victor Hail forged every page.\"",
+              "speaker": "MAYA",
+              "context": "Close-up on the letter in Maya's trembling hands."
+            }
+          ],
+          "llm_verdict": {
+            "same_entity": true,
+            "reason": "Both spellings refer to the same character, Victor Hale, who is in conflict with Maya over her father's estate and documents.",
+            "model": "google/gemini-3.8-flash"
+          }
+        }
+      ],
+      "llm_kept": true
+    },
+    {
+      "canonical": "Maya",
+      "canonical_count": 12,
+      "canonical_example": "Maya Thorne returns to Ravenscroft Hall for her father's funeral and finds Victor Hale already sitting in his chair.",
+      "severity": "MEDIUM",
+      "variants": [
+        {
+          "spelling": "Mara",
+          "count": 5,
+          "severity": "MEDIUM",
+          "occurrences": [
+            {
+              "episode": 1,
+              "line": 3,
+              "kind": "notes",
+              "time": "",
+              "text": "First episode. Maya's younger sister Mara lives at the Hall.",
+              "speaker": "",
+              "context": ""
+            },
+            {
+              "episode": 1,
+              "line": 28,
+              "kind": "description",
+              "time": "00:09.00",
+              "text": "Mara appears at the top of the stairs, clutching a folded letter.",
+              "speaker": "",
+              "context": ""
+            },
+            {
+              "episode": 1,
+              "line": 30,
+              "kind": "speaker_tag",
+              "time": "",
+              "text": "MARA",
+              "speaker": "",
+              "context": ""
+            },
+            {
+              "episode": 2,
+              "line": 3,
+              "kind": "notes",
+              "time": "",
+              "text": "Picks up from Episode 1 as Mara hands Maya the letter.",
+              "speaker": "",
+              "context": ""
+            },
+            {
+              "episode": 2,
+              "line": 22,
+              "kind": "speaker_tag",
+              "time": "",
+              "text": "MARA",
+              "speaker": "",
+              "context": ""
+            }
+          ],
+          "llm_verdict": {
+            "same_entity": false,
+            "reason": "Mara is explicitly identified as Maya's younger sister, making her a distinct character.",
+            "model": "google/gemini-3.8-flash"
+          }
+        }
+      ],
+      "llm_kept": false
+    }
+  ],
+  "tag_aliases": [
+    {
+      "short": "MAYA",
+      "long": "MAYA THORNE",
+      "short_n": 2,
+      "long_n": 2,
+      "episodes_short": [
+        2
+      ],
+      "episodes_long": [
+        1,
+        3
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 3,
+    "prompt_tokens": 772,
+    "completion_tokens": 200
+  }
+}
